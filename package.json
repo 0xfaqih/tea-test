@@ -6,4 +6,12 @@
   "keywords": ["tea-test"],
   "author": "0xfaqih",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xfaqih/tea-test.git"
+  },
+  "homepage": "https://github.com/0xfaqih/tea-test#readme",
+  "bugs": {
+    "url": "https://github.com/0xfaqih/tea-test/issues"
+  }
 }
